@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a robotics researcher working on novel trajectory representations to enable motion recognition and robot task learning with sparse data.
+I am a robotics researcher working on novel trajectory representations to enable motion recognition and robot task learning from sparse data.
 
 I am interested in numerical optimization, optimal control, 3D kinematics, differential geometry, robot control, machine learning and state estimation.
 
